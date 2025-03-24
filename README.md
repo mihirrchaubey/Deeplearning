@@ -1,4 +1,5 @@
 # Netflix-Based Movie Recommendation System
+Author Name-Mihir Chaubey 
 
 ## Overview
 This project implements a **Netflix-based Movie Recommendation System** using a **Stacked Autoencoder**. The system is designed to provide **personalized movie recommendations** based on user preferences and historical ratings.
